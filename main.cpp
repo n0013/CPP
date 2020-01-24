@@ -8,7 +8,7 @@ int main() {
 	int value = 7;	// обычная переменная
 	int &ref = value; // ссылка на переменную value
 
-
+	std::cout << value << std::endl;
 
 	/* 	// Поддержка кириллицы в консоли Windows
 	setlocale(LC_ALL, "");
