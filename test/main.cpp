@@ -10,9 +10,9 @@ int main() {
 
 	std::clog << value;
 	
+	std::clog << &ref;
+
 	std::cout << value << std::endl;
-
-
 
 	/*
 	
