@@ -8,10 +8,10 @@ int main() {
 	int value = 7;	// обычная переменная
 	int &ref = value; // ссылка на переменную value
 
-	std::cout << value << std::endl;
+	
 
-	/* 	// Поддержка кириллицы в консоли Windows
-	setlocale(LC_ALL, "");
+	/*
+	
 
 	// Создание вектора из строк
 	std::vector<std::string> students;
@@ -37,7 +37,10 @@ int main() {
 	for (int i = 0; i < vector_size; i++)
 	{
 		std::cout << students[i] << std::endl;
-	} */
+	} 
+	
+	
+	*/
 
 	return 0;
 
