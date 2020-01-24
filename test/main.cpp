@@ -9,6 +9,10 @@ int main() {
 	int &ref = value; // ссылка на переменную value
 
 	std::clog << value;
+	
+	std::cout << value << std::endl;
+
+
 
 	/*
 	
